@@ -29,13 +29,13 @@
     "eslint-loader": "^1.7.1",
     "flow-bin": "^0.48.0",
     "jest": "^20.0.4",
-    "node-sass": "^4.5.3",
+    "node-sass": "^9.0.0",
     "postcss-loader": "^2.0.5",
     "redux-logger": "^3.0.6",
     "sass-loader": "^6.0.5",
     "style-loader": "^0.18.2",
     "stylelint": "^7.11.1",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5"
+    "webpack-dev-server": "^5.2.1"
   }
 }
